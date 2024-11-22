@@ -204,6 +204,8 @@ Total deals: 450
 | ⭐ | [TalkTune](https://www.talktune.ai) | AI-powered tool to enhance speaking skills and build confidence through personalized practice sessions | Use promo code **BLACKFRIDAY2024** for a **50% discount** |
 | ⭐ | [PageGen](https://pagegen.ai) | 10x Faster Page Generation with Claude AI, React and Shadcn UI | Use promo code **BLACK24** for a **30% discount** |
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
+| ⭐ | [Bookshelf: Reading Tracker](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) | Beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read.
+ | 50% OFF, no code required |
 
 [⬆️ Go to Top](#table-of-contents)
 
